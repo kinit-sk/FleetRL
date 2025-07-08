@@ -1,4 +1,4 @@
--e file:.
+# -e file:.
 sphinx-autodoc-typehints
 sphinx-rtd-theme
 
